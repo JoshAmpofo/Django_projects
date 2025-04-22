@@ -4,7 +4,7 @@
 ## Overview
 EnzymeDB is a RESTful API service built with Django REST Framework that provides a comprehensive database of enzymes. The API allows users to create, read, update, and delete enzyme entries with proper authentication and authorization.
 
----
+
 ## Features
 
 - RESTful API endpoints for enzyme data management
