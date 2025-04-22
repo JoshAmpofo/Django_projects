@@ -1,7 +1,6 @@
 # Enzyme DB
 
-![Django](https://img.shields.io/badge/Django-4.2-green?style=for-the-badge&logo=django) ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-1.30.0-purple?style=for-the-badge&logo=opentelemetry)
-
+![Django](https://img.shields.io/badge/Django-4.2-green?style=for-the-badge&logo=django) ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ## Overview
 EnzymeDB is a RESTful API service built with Django REST Framework that provides a comprehensive database of enzymes. The API allows users to create, read, update, and delete enzyme entries with proper authentication and authorization.
 
